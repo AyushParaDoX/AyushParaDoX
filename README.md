@@ -4,7 +4,7 @@
 - 🎯 My Aim is to become a full stack developer.
 - 😍 My hobby is Playing video games, playing Football and Doing Programming.
 - ⚡ "BE ENERGETIC UNTIL YOU REACH TO YOUR GOAL".
-- 🤝 You can message about any query on e-mail my email is : ayush.07menchest@gmail.com.
+- 🤝 You can join with me by mailing on: ayush.07menchest@gmail.com.
 
 <!---
 AyushParaDoX/AyushParaDoX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
